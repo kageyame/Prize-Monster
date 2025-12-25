@@ -1,0 +1,3965 @@
+fileFormatVersion: 2
+guid: d6db6fcdee2a0442dbd4082e45990c05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6550884107048592621
+    second: spr_interior_color_0
+  - first:
+      213: -3046834036703624508
+    second: spr_interior_color_1
+  - first:
+      213: -3058246865089921789
+    second: spr_interior_color_2
+  - first:
+      213: 2010988629915991054
+    second: spr_interior_color_3
+  - first:
+      213: 2860733011818996552
+    second: spr_interior_color_4
+  - first:
+      213: 3624462233701189414
+    second: spr_interior_color_5
+  - first:
+      213: 7588956838848001536
+    second: spr_interior_color_6
+  - first:
+      213: -6949529242961968180
+    second: spr_interior_color_7
+  - first:
+      213: -4456515264968451659
+    second: spr_interior_color_8
+  - first:
+      213: -8678742183099734096
+    second: spr_interior_color_9
+  - first:
+      213: 9049367807641621666
+    second: spr_interior_color_10
+  - first:
+      213: -8458000719325121448
+    second: spr_interior_color_11
+  - first:
+      213: 1937746865637864319
+    second: spr_interior_color_12
+  - first:
+      213: -1449062630468650849
+    second: spr_interior_color_13
+  - first:
+      213: -8748540412484135309
+    second: spr_interior_color_14
+  - first:
+      213: 5558932380267488360
+    second: spr_interior_color_15
+  - first:
+      213: -3976115234688225009
+    second: spr_interior_color_16
+  - first:
+      213: -736207276031411840
+    second: spr_interior_color_17
+  - first:
+      213: -7773757467707849564
+    second: spr_interior_color_18
+  - first:
+      213: -5292847306807444306
+    second: spr_interior_color_19
+  - first:
+      213: -6434522697036356673
+    second: spr_interior_color_20
+  - first:
+      213: 7450086863951929440
+    second: spr_interior_color_21
+  - first:
+      213: -2557415573102481852
+    second: spr_interior_color_22
+  - first:
+      213: 881120257732496429
+    second: spr_interior_color_23
+  - first:
+      213: -600342081598505055
+    second: spr_interior_color_24
+  - first:
+      213: -5324623082119038230
+    second: spr_interior_color_25
+  - first:
+      213: -1215284664890716744
+    second: spr_interior_color_26
+  - first:
+      213: 2148419871050009865
+    second: spr_interior_color_27
+  - first:
+      213: 3935692454647123151
+    second: spr_interior_color_28
+  - first:
+      213: 6260362692002440447
+    second: spr_interior_color_29
+  - first:
+      213: 7566443751001642654
+    second: spr_interior_color_30
+  - first:
+      213: 43916887657169750
+    second: spr_interior_color_31
+  - first:
+      213: -8749519502234919854
+    second: spr_interior_color_32
+  - first:
+      213: 2386404331479940400
+    second: spr_interior_color_33
+  - first:
+      213: -3827630250797341170
+    second: spr_interior_color_34
+  - first:
+      213: 8300559370815759853
+    second: spr_interior_color_35
+  - first:
+      213: -6574920622620153964
+    second: spr_interior_color_36
+  - first:
+      213: 7880795415585325715
+    second: spr_interior_color_37
+  - first:
+      213: 4305668566633786470
+    second: spr_interior_color_38
+  - first:
+      213: -6870129981765230627
+    second: spr_interior_color_39
+  - first:
+      213: 4218783468534269147
+    second: spr_interior_color_40
+  - first:
+      213: 2954958201377342353
+    second: spr_interior_color_41
+  - first:
+      213: -5437415112325096771
+    second: spr_interior_color_42
+  - first:
+      213: 2054630441443383462
+    second: spr_interior_color_43
+  - first:
+      213: 5476364091511259844
+    second: spr_interior_color_44
+  - first:
+      213: 6608191330656677263
+    second: spr_interior_color_45
+  - first:
+      213: 824305594489330334
+    second: spr_interior_color_46
+  - first:
+      213: 1726026325060039381
+    second: spr_interior_color_47
+  - first:
+      213: 3185218841273921665
+    second: spr_interior_color_48
+  - first:
+      213: -4530044337043039659
+    second: spr_interior_color_49
+  - first:
+      213: 1966829808299981316
+    second: spr_interior_color_50
+  - first:
+      213: 1464658938952743198
+    second: spr_interior_color_51
+  - first:
+      213: 7888375254677803132
+    second: spr_interior_color_52
+  - first:
+      213: 6644321166353035874
+    second: spr_interior_color_53
+  - first:
+      213: -7760375924469517726
+    second: spr_interior_color_54
+  - first:
+      213: -5740691632218286579
+    second: spr_interior_color_55
+  - first:
+      213: -3323271038277860192
+    second: spr_interior_color_56
+  - first:
+      213: -1508692161944735297
+    second: spr_interior_color_57
+  - first:
+      213: -8381626226871570660
+    second: spr_interior_color_58
+  - first:
+      213: -7226795771233098359
+    second: spr_interior_color_59
+  - first:
+      213: -1447837728148852292
+    second: spr_interior_color_60
+  - first:
+      213: -2233600642226794947
+    second: spr_interior_color_61
+  - first:
+      213: 7010700112448671024
+    second: spr_interior_color_62
+  - first:
+      213: -853951973902652558
+    second: spr_interior_color_63
+  - first:
+      213: -6808303877241724468
+    second: spr_interior_color_64
+  - first:
+      213: -3622028117988005704
+    second: spr_interior_color_65
+  - first:
+      213: -9178104582748904629
+    second: spr_interior_color_66
+  - first:
+      213: 5430103580692316874
+    second: spr_interior_color_67
+  - first:
+      213: 5266971012905340465
+    second: spr_interior_color_68
+  - first:
+      213: 5449690464151400898
+    second: spr_interior_color_69
+  - first:
+      213: 5673611217911076248
+    second: spr_interior_color_70
+  - first:
+      213: -537377162838376963
+    second: spr_interior_color_71
+  - first:
+      213: 8162577619582381686
+    second: spr_interior_color_72
+  - first:
+      213: -8556765154346029346
+    second: spr_interior_color_73
+  - first:
+      213: -2546401991532544699
+    second: spr_interior_color_74
+  - first:
+      213: 6072397124370934843
+    second: spr_interior_color_75
+  - first:
+      213: -2531444488011123765
+    second: spr_interior_color_76
+  - first:
+      213: -277160580527780106
+    second: spr_interior_color_77
+  - first:
+      213: 2471308060114761546
+    second: spr_interior_color_78
+  - first:
+      213: -5831783669957153258
+    second: spr_interior_color_79
+  - first:
+      213: 1033730212192875689
+    second: spr_interior_color_80
+  - first:
+      213: 1571080681376074658
+    second: spr_interior_color_81
+  - first:
+      213: 6616271310603610982
+    second: spr_interior_color_82
+  - first:
+      213: -6771667193076699752
+    second: spr_interior_color_83
+  - first:
+      213: 4568919349365409106
+    second: spr_interior_color_84
+  - first:
+      213: 2921265973993753802
+    second: spr_interior_color_85
+  - first:
+      213: -427515133633388173
+    second: spr_interior_color_86
+  - first:
+      213: -3285679933585484601
+    second: spr_interior_color_87
+  - first:
+      213: 9014855661822786084
+    second: spr_interior_color_88
+  - first:
+      213: -943787408732483855
+    second: spr_interior_color_89
+  - first:
+      213: -7743664905140372988
+    second: spr_interior_color_90
+  - first:
+      213: 6236962863244758547
+    second: spr_interior_color_91
+  - first:
+      213: 7562997971921619690
+    second: spr_interior_color_92
+  - first:
+      213: -9008832165292284376
+    second: spr_interior_color_93
+  - first:
+      213: 2522368262007872051
+    second: spr_interior_color_94
+  - first:
+      213: -3404641799420613784
+    second: spr_interior_color_95
+  - first:
+      213: -3474495733939516652
+    second: spr_interior_color_96
+  - first:
+      213: -479762476602212540
+    second: spr_interior_color_97
+  - first:
+      213: 6722898728079106195
+    second: spr_interior_color_98
+  - first:
+      213: -1966512034097760103
+    second: spr_interior_color_99
+  - first:
+      213: -4327909338561090478
+    second: spr_interior_color_100
+  - first:
+      213: -6845464427572770464
+    second: spr_interior_color_101
+  - first:
+      213: 8480015687868128058
+    second: spr_interior_color_102
+  - first:
+      213: 1417469706949559767
+    second: spr_interior_color_103
+  - first:
+      213: 2187562221674365976
+    second: spr_interior_color_104
+  - first:
+      213: 6039150473040175436
+    second: spr_interior_color_105
+  - first:
+      213: 585397508437310906
+    second: spr_interior_color_106
+  - first:
+      213: -4250442318415225614
+    second: spr_interior_color_107
+  - first:
+      213: -4713133868003636396
+    second: spr_interior_color_108
+  - first:
+      213: 2002036658027911691
+    second: spr_interior_color_109
+  - first:
+      213: -4953735096203926355
+    second: spr_interior_color_110
+  - first:
+      213: -8983270159069105820
+    second: spr_interior_color_111
+  - first:
+      213: 8342472298153662137
+    second: spr_interior_color_112
+  - first:
+      213: -890434475212468104
+    second: spr_interior_color_113
+  - first:
+      213: 5251504165967473001
+    second: spr_interior_color_114
+  - first:
+      213: -4667581225680859082
+    second: spr_interior_color_115
+  - first:
+      213: 7715762015531481324
+    second: spr_interior_color_116
+  - first:
+      213: 5461593378317668394
+    second: spr_interior_color_117
+  - first:
+      213: -1205039450494893656
+    second: spr_interior_color_118
+  - first:
+      213: -167989633599885929
+    second: spr_interior_color_119
+  - first:
+      213: 5688740780929411041
+    second: spr_interior_color_120
+  - first:
+      213: 3153046099901635549
+    second: spr_interior_color_121
+  - first:
+      213: -7733245165034790994
+    second: spr_interior_color_122
+  - first:
+      213: -3260472728074288047
+    second: spr_interior_color_123
+  - first:
+      213: 2058666895730214825
+    second: spr_interior_color_124
+  - first:
+      213: 4324477937427145651
+    second: spr_interior_color_125
+  - first:
+      213: -8751860101805885531
+    second: spr_interior_color_126
+  - first:
+      213: -8404583954869628769
+    second: spr_interior_color_127
+  - first:
+      213: -439747852385179973
+    second: spr_interior_color_128
+  - first:
+      213: 269469286998974436
+    second: spr_interior_color_129
+  - first:
+      213: -4232081343322516136
+    second: spr_interior_color_130
+  - first:
+      213: -4201182493116086131
+    second: spr_interior_color_131
+  - first:
+      213: 404434104691805583
+    second: spr_interior_color_132
+  - first:
+      213: 3161246403198696100
+    second: spr_interior_color_133
+  - first:
+      213: -6075928874468834589
+    second: spr_interior_color_134
+  - first:
+      213: -3432559717712460825
+    second: spr_interior_color_135
+  - first:
+      213: 8964277167125109825
+    second: spr_interior_color_136
+  - first:
+      213: 3346251472444343706
+    second: spr_interior_color_137
+  - first:
+      213: 9121985707809700669
+    second: spr_interior_color_138
+  - first:
+      213: 1412090567165167608
+    second: spr_interior_color_139
+  - first:
+      213: -5859913299049879121
+    second: spr_interior_color_140
+  - first:
+      213: 1285152536463963648
+    second: spr_interior_color_141
+  - first:
+      213: -1319525937138303355
+    second: spr_interior_color_142
+  - first:
+      213: 3258362511074313626
+    second: spr_interior_color_143
+  - first:
+      213: 1102685159689534744
+    second: spr_interior_color_144
+  - first:
+      213: 7230112653868173715
+    second: spr_interior_color_145
+  - first:
+      213: 4048371281359352380
+    second: spr_interior_color_146
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_interior_color_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bdd9adc959615a0800000000000000
+      internalID: -6550884107048592621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 591
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c206b0269877b5d0800000000000000
+      internalID: -3046834036703624508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 624
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dfcd2fdacee85d0800000000000000
+      internalID: -3058246865089921789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 608
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cfd75118778eb10800000000000000
+      internalID: 2010988629915991054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 623
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84364b6748d53b720800000000000000
+      internalID: 2860733011818996552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 623
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6270495c23dac4230800000000000000
+      internalID: 3624462233701189414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 592
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0067e437904615960800000000000000
+      internalID: 7588956838848001536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 576
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3001549ff4e8f90800000000000000
+      internalID: -6949529242961968180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 577
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b913776af64722c0800000000000000
+      internalID: -4456515264968451659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 577
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7642767f9ee8780800000000000000
+      internalID: -8678742183099734096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 577
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a495505310d59d70800000000000000
+      internalID: 9049367807641621666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 145
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854b0ae78252f9a80800000000000000
+      internalID: -8458000719325121448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 560
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73b8f6f18244ea10800000000000000
+      internalID: 1937746865637864319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 544
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f987f9d0735e3ebe0800000000000000
+      internalID: -1449062630468650849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 529
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376dbbab8d0f69680800000000000000
+      internalID: -8748540412484135309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 529
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864a2402c8b452d40800000000000000
+      internalID: 5558932380267488360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_16
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 529
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01b36aa24002d8c0800000000000000
+      internalID: -3976115234688225009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089f61f026778c5f0800000000000000
+      internalID: -736207276031411840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 129
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4cb3f25c01e1490800000000000000
+      internalID: -7773757467707849564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 528
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacfb5bca670c86b0800000000000000
+      internalID: -5292847306807444306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 512
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3a5f7d2bbf3b6a0800000000000000
+      internalID: -6434522697036356673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_21
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 495
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060a8afc786046760800000000000000
+      internalID: 7450086863951929440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 513
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44eac26061c328cd0800000000000000
+      internalID: -2557415573102481852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 513
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ccb8eb43e5a3c00800000000000000
+      internalID: 881120257732496429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 513
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af3a9abe082ba7f0800000000000000
+      internalID: -600342081598505055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 496
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaf27394832b16b0800000000000000
+      internalID: -5324623082119038230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 480
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd85304901722fe0800000000000000
+      internalID: -1215284664890716744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d835a6d78b0dd10800000000000000
+      internalID: 2148419871050009865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_28
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 464
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc4d607f636e9630800000000000000
+      internalID: 3935692454647123151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 479
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4e9e513b641e650800000000000000
+      internalID: 6260362692002440447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 368
+        width: 120
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e965d67b088610960800000000000000
+      internalID: 7566443751001642654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 466
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65342783d260c9000800000000000000
+      internalID: 43916887657169750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c5fe1ae56739680800000000000000
+      internalID: -8749519502234919854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_33
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 448
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03db05488163e1120800000000000000
+      internalID: 2386404331479940400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_34
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 401
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e066fa9019681eac0800000000000000
+      internalID: -3827630250797341170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_35
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 453
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5638ef4c2813370800000000000000
+      internalID: 8300559370815759853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497e556778031c4a0800000000000000
+      internalID: -6574920622620153964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_37
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 432
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3928d7d1da53e5d60800000000000000
+      internalID: 7880795415585325715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_38
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 438
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ca5cabfbec0cb30800000000000000
+      internalID: 4305668566633786470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 113
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf5f1c5e2568a0a0800000000000000
+      internalID: -6870129981765230627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_40
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 416
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4864a66312c8a30800000000000000
+      internalID: 4218783468534269147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_41
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 400
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193493ff3de120920800000000000000
+      internalID: 2954958201377342353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_42
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 383
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba958593cb6a84b0800000000000000
+      internalID: -5437415112325096771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 405
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8dfe62083838c10800000000000000
+      internalID: 2054630441443383462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2cb3f4024fffb40800000000000000
+      internalID: 5476364091511259844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_45
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 384
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d6b97e00305bb50800000000000000
+      internalID: 6608191330656677263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 368
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a57e12295807b00800000000000000
+      internalID: 824305594489330334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_47
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 383
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d23d2a3cc314f710800000000000000
+      internalID: 1726026325060039381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_48
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 383
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180730ef8ab243c20800000000000000
+      internalID: 3185218841273921665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a97c93dac0221c0800000000000000
+      internalID: -4530044337043039659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 352
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40abe593a459b4b10800000000000000
+      internalID: 1966829808299981316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_51
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 351
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19f06d7b83835410800000000000000
+      internalID: 1464658938952743198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 351
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c705d0eef73297d60800000000000000
+      internalID: 7888375254677803132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 354
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262f41ec5ee553c50800000000000000
+      internalID: 6644321166353035874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_54
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 353
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2623082863b9d4490800000000000000
+      internalID: -7760375924469517726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_55
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 355
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0652904067f450b0800000000000000
+      internalID: -5740691632218286579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_56
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 355
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4ca1f199e51e1d0800000000000000
+      internalID: -3323271038277860192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_57
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 320
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb13edbd87c001be0800000000000000
+      internalID: -1508692161944735297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fe83bba5b7eab80800000000000000
+      internalID: -8381626226871570660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_59
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 336
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9852b57098345bb90800000000000000
+      internalID: -7226795771233098359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_60
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 325
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb17749d14f38ebe0800000000000000
+      internalID: -1447837728148852292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_61
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 328
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eccfdcc08a001e0800000000000000
+      internalID: -2233600642226794947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_62
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 331
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d4b45ab920b4160800000000000000
+      internalID: 7010700112448671024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 328
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27be94444372624f0800000000000000
+      internalID: -853951973902652558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 327
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1a71212bb0481a0800000000000000
+      internalID: -6808303877241724468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_65
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 340
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b829d4fd98fbbdc0800000000000000
+      internalID: -3622028117988005704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_66
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 339
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43edd97282d0a080800000000000000
+      internalID: -9178104582748904629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac20ebccf6a9b5b40800000000000000
+      internalID: 5430103580692316874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 303
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e808a0b3a081940800000000000000
+      internalID: 5266971012905340465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_69
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 303
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1f39b7a9031ab40800000000000000
+      internalID: 5449690464151400898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_70
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 303
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895d245b757bcbe40800000000000000
+      internalID: 5673611217911076248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_71
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 320
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd7c9a415ada88f0800000000000000
+      internalID: -537377162838376963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_72
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 325
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ee2ca091d474170800000000000000
+      internalID: 8162577619582381686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_73
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 325
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edea3c48d63404980800000000000000
+      internalID: -8556765154346029346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_74
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 326
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dfa5f41ec59acd0800000000000000
+      internalID: -2546401991532544699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_75
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 326
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cab3df20d754450800000000000000
+      internalID: 6072397124370934843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_76
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 304
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3f97b76a08edcd0800000000000000
+      internalID: -2531444488011123765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_77
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 288
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe86e3abe3572cf0800000000000000
+      internalID: -277160580527780106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_78
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 287
+        width: 114
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4733bd4699db4220800000000000000
+      internalID: 2471308060114761546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_79
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 287
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ea74976a7511fa0800000000000000
+      internalID: -5831783669957153258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4785ba62c885e00800000000000000
+      internalID: 1033730212192875689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_81
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 275
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab46e64e899dc510800000000000000
+      internalID: 1571080681376074658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_82
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 274
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66be226d3b7b1db50800000000000000
+      internalID: 6616271310603610982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_83
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 273
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d2f73d0943602a0800000000000000
+      internalID: -6771667193076699752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_84
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 272
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255855ae0ff086f30800000000000000
+      internalID: 4568919349365409106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_85
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 271
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc45520deb6a8820800000000000000
+      internalID: 2921265973993753802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_86
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 271
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371ada34049211af0800000000000000
+      internalID: -427515133633388173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_87
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 271
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c41209328be662d0800000000000000
+      internalID: -3285679933585484601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_88
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 271
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42abd5036733b1d70800000000000000
+      internalID: 9014855661822786084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_89
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 271
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe83072a5ef6e2f0800000000000000
+      internalID: -943787408732483855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_90
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 271
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40af275ebc9f88490800000000000000
+      internalID: -7743664905140372988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ec105eda42e8650800000000000000
+      internalID: 6236962863244758547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea4361c59a25f860800000000000000
+      internalID: 7562997971921619690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826e3a260e23af280800000000000000
+      internalID: -9008832165292284376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ad2b9f190410320800000000000000
+      internalID: 2522368262007872051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b661e625840c0d0800000000000000
+      internalID: -3404641799420613784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bcce4e98c18cfc0800000000000000
+      internalID: -3474495733939516652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f3095c19a8759f0800000000000000
+      internalID: -479762476602212540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390a41416c88c4d50800000000000000
+      internalID: 6722898728079106195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_99
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998721959bb85b4e0800000000000000
+      internalID: -1966512034097760103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c68f6036d20f3c0800000000000000
+      internalID: -4327909338561090478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069c3f73f560001a0800000000000000
+      internalID: -6845464427572770464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_102
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b9e1dc6511fa570800000000000000
+      internalID: 8480015687868128058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d50b9a303ddba310800000000000000
+      internalID: 1417469706949559767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_104
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81407fa1048cb5e10800000000000000
+      internalID: 2187562221674365976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_105
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4121b2cb5f5fc350800000000000000
+      internalID: 6039150473040175436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_106
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdfdceaeefbf1800800000000000000
+      internalID: 585397508437310906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc92903b356305c0800000000000000
+      internalID: -4250442318415225614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_108
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bc7c2e7b5979eb0800000000000000
+      internalID: -4713133868003636396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a5015bbb9a8cb10800000000000000
+      internalID: 2002036658027911691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_110
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4216f0d2cc04bb0800000000000000
+      internalID: -4953735096203926355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461b15fb263055380800000000000000
+      internalID: -8983270159069105820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_112
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 240
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b65cf7da5a66c370800000000000000
+      internalID: 8342472298153662137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_113
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 224
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8701331009a84a3f0800000000000000
+      internalID: -890434475212468104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_114
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 239
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969a9fc173711e840800000000000000
+      internalID: 5251504165967473001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_115
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 191
+        width: 161
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630920bea9b693fb0800000000000000
+      internalID: -4667581225680859082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8b43b5ca4e31b60800000000000000
+      internalID: 7715762015531481324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 143
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a201046ad3a7bcb40800000000000000
+      internalID: 5461593378317668394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_118
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 191
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a18bec1107d64fe0800000000000000
+      internalID: -1205039450494893656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_119
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79da45b715e2badf0800000000000000
+      internalID: -167989633599885929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_120
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 208
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7639a999772fe40800000000000000
+      internalID: 5688740780929411041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_121
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 192
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb5119e8bed1cb20800000000000000
+      internalID: 3153046099901635549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_122
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 143
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf1811be7efda490800000000000000
+      internalID: -7733245165034790994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_123
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 176
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154884b145970c2d0800000000000000
+      internalID: -3260472728074288047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_124
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 160
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a70bd662aad19c10800000000000000
+      internalID: 2058666895730214825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_125
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 111
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3eb53a5c1a30c30800000000000000
+      internalID: 4324477937427145651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a732f35b952b8680800000000000000
+      internalID: -8751860101805885531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_127
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 145
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f905c052c6bec5b80800000000000000
+      internalID: -8404583954869628769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_128
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 144
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb627db78a3b5e9f0800000000000000
+      internalID: -439747852385179973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef937983e85db300800000000000000
+      internalID: 269469286998974436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_130
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85514b6d070a445c0800000000000000
+      internalID: -4232081343322516136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_131
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88c93508c662b5c0800000000000000
+      internalID: -4201182493116086131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_132
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 128
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d4539eca6dc9500800000000000000
+      internalID: 404434104691805583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_133
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 112
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aab32ecad00fdb20800000000000000
+      internalID: 3161246403198696100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e20fbc51e6fdaba0800000000000000
+      internalID: -6075928874468834589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e30f6b8f191d50d0800000000000000
+      internalID: -3432559717712460825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 47
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c13a6b692876c70800000000000000
+      internalID: 8964277167125109825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_137
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 96
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a954c282cf5407e20800000000000000
+      internalID: 3346251472444343706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_138
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bff20cbadc79e70800000000000000
+      internalID: 9121985707809700669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_139
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f74f86a3e0c89310800000000000000
+      internalID: 1412090567165167608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_140
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 64
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa96b83d6e76daea0800000000000000
+      internalID: -5859913299049879121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00670224c67c5d110800000000000000
+      internalID: 1285152536463963648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_142
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ef4fcb62a10bde0800000000000000
+      internalID: -1319525937138303355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_143
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 48
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95c806b077083d20800000000000000
+      internalID: 3258362511074313626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_144
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 32
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81db36a7f468d4f00800000000000000
+      internalID: 1102685159689534744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_145
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 16
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3998ed3e625865460800000000000000
+      internalID: 7230112653868173715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_interior_color_146
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3231503b34be2830800000000000000
+      internalID: 4048371281359352380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spr_interior_color_0: -6550884107048592621
+      spr_interior_color_1: -3046834036703624508
+      spr_interior_color_10: 9049367807641621666
+      spr_interior_color_100: -4327909338561090478
+      spr_interior_color_101: -6845464427572770464
+      spr_interior_color_102: 8480015687868128058
+      spr_interior_color_103: 1417469706949559767
+      spr_interior_color_104: 2187562221674365976
+      spr_interior_color_105: 6039150473040175436
+      spr_interior_color_106: 585397508437310906
+      spr_interior_color_107: -4250442318415225614
+      spr_interior_color_108: -4713133868003636396
+      spr_interior_color_109: 2002036658027911691
+      spr_interior_color_11: -8458000719325121448
+      spr_interior_color_110: -4953735096203926355
+      spr_interior_color_111: -8983270159069105820
+      spr_interior_color_112: 8342472298153662137
+      spr_interior_color_113: -890434475212468104
+      spr_interior_color_114: 5251504165967473001
+      spr_interior_color_115: -4667581225680859082
+      spr_interior_color_116: 7715762015531481324
+      spr_interior_color_117: 5461593378317668394
+      spr_interior_color_118: -1205039450494893656
+      spr_interior_color_119: -167989633599885929
+      spr_interior_color_12: 1937746865637864319
+      spr_interior_color_120: 5688740780929411041
+      spr_interior_color_121: 3153046099901635549
+      spr_interior_color_122: -7733245165034790994
+      spr_interior_color_123: -3260472728074288047
+      spr_interior_color_124: 2058666895730214825
+      spr_interior_color_125: 4324477937427145651
+      spr_interior_color_126: -8751860101805885531
+      spr_interior_color_127: -8404583954869628769
+      spr_interior_color_128: -439747852385179973
+      spr_interior_color_129: 269469286998974436
+      spr_interior_color_13: -1449062630468650849
+      spr_interior_color_130: -4232081343322516136
+      spr_interior_color_131: -4201182493116086131
+      spr_interior_color_132: 404434104691805583
+      spr_interior_color_133: 3161246403198696100
+      spr_interior_color_134: -6075928874468834589
+      spr_interior_color_135: -3432559717712460825
+      spr_interior_color_136: 8964277167125109825
+      spr_interior_color_137: 3346251472444343706
+      spr_interior_color_138: 9121985707809700669
+      spr_interior_color_139: 1412090567165167608
+      spr_interior_color_14: -8748540412484135309
+      spr_interior_color_140: -5859913299049879121
+      spr_interior_color_141: 1285152536463963648
+      spr_interior_color_142: -1319525937138303355
+      spr_interior_color_143: 3258362511074313626
+      spr_interior_color_144: 1102685159689534744
+      spr_interior_color_145: 7230112653868173715
+      spr_interior_color_146: 4048371281359352380
+      spr_interior_color_15: 5558932380267488360
+      spr_interior_color_16: -3976115234688225009
+      spr_interior_color_17: -736207276031411840
+      spr_interior_color_18: -7773757467707849564
+      spr_interior_color_19: -5292847306807444306
+      spr_interior_color_2: -3058246865089921789
+      spr_interior_color_20: -6434522697036356673
+      spr_interior_color_21: 7450086863951929440
+      spr_interior_color_22: -2557415573102481852
+      spr_interior_color_23: 881120257732496429
+      spr_interior_color_24: -600342081598505055
+      spr_interior_color_25: -5324623082119038230
+      spr_interior_color_26: -1215284664890716744
+      spr_interior_color_27: 2148419871050009865
+      spr_interior_color_28: 3935692454647123151
+      spr_interior_color_29: 6260362692002440447
+      spr_interior_color_3: 2010988629915991054
+      spr_interior_color_30: 7566443751001642654
+      spr_interior_color_31: 43916887657169750
+      spr_interior_color_32: -8749519502234919854
+      spr_interior_color_33: 2386404331479940400
+      spr_interior_color_34: -3827630250797341170
+      spr_interior_color_35: 8300559370815759853
+      spr_interior_color_36: -6574920622620153964
+      spr_interior_color_37: 7880795415585325715
+      spr_interior_color_38: 4305668566633786470
+      spr_interior_color_39: -6870129981765230627
+      spr_interior_color_4: 2860733011818996552
+      spr_interior_color_40: 4218783468534269147
+      spr_interior_color_41: 2954958201377342353
+      spr_interior_color_42: -5437415112325096771
+      spr_interior_color_43: 2054630441443383462
+      spr_interior_color_44: 5476364091511259844
+      spr_interior_color_45: 6608191330656677263
+      spr_interior_color_46: 824305594489330334
+      spr_interior_color_47: 1726026325060039381
+      spr_interior_color_48: 3185218841273921665
+      spr_interior_color_49: -4530044337043039659
+      spr_interior_color_5: 3624462233701189414
+      spr_interior_color_50: 1966829808299981316
+      spr_interior_color_51: 1464658938952743198
+      spr_interior_color_52: 7888375254677803132
+      spr_interior_color_53: 6644321166353035874
+      spr_interior_color_54: -7760375924469517726
+      spr_interior_color_55: -5740691632218286579
+      spr_interior_color_56: -3323271038277860192
+      spr_interior_color_57: -1508692161944735297
+      spr_interior_color_58: -8381626226871570660
+      spr_interior_color_59: -7226795771233098359
+      spr_interior_color_6: 7588956838848001536
+      spr_interior_color_60: -1447837728148852292
+      spr_interior_color_61: -2233600642226794947
+      spr_interior_color_62: 7010700112448671024
+      spr_interior_color_63: -853951973902652558
+      spr_interior_color_64: -6808303877241724468
+      spr_interior_color_65: -3622028117988005704
+      spr_interior_color_66: -9178104582748904629
+      spr_interior_color_67: 5430103580692316874
+      spr_interior_color_68: 5266971012905340465
+      spr_interior_color_69: 5449690464151400898
+      spr_interior_color_7: -6949529242961968180
+      spr_interior_color_70: 5673611217911076248
+      spr_interior_color_71: -537377162838376963
+      spr_interior_color_72: 8162577619582381686
+      spr_interior_color_73: -8556765154346029346
+      spr_interior_color_74: -2546401991532544699
+      spr_interior_color_75: 6072397124370934843
+      spr_interior_color_76: -2531444488011123765
+      spr_interior_color_77: -277160580527780106
+      spr_interior_color_78: 2471308060114761546
+      spr_interior_color_79: -5831783669957153258
+      spr_interior_color_8: -4456515264968451659
+      spr_interior_color_80: 1033730212192875689
+      spr_interior_color_81: 1571080681376074658
+      spr_interior_color_82: 6616271310603610982
+      spr_interior_color_83: -6771667193076699752
+      spr_interior_color_84: 4568919349365409106
+      spr_interior_color_85: 2921265973993753802
+      spr_interior_color_86: -427515133633388173
+      spr_interior_color_87: -3285679933585484601
+      spr_interior_color_88: 9014855661822786084
+      spr_interior_color_89: -943787408732483855
+      spr_interior_color_9: -8678742183099734096
+      spr_interior_color_90: -7743664905140372988
+      spr_interior_color_91: 6236962863244758547
+      spr_interior_color_92: 7562997971921619690
+      spr_interior_color_93: -9008832165292284376
+      spr_interior_color_94: 2522368262007872051
+      spr_interior_color_95: -3404641799420613784
+      spr_interior_color_96: -3474495733939516652
+      spr_interior_color_97: -479762476602212540
+      spr_interior_color_98: 6722898728079106195
+      spr_interior_color_99: -1966512034097760103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

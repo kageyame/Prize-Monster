@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: 35078c18f2cec45029534af16564124f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3918121782261986378
+    second: spr_trainers_battle_0
+  - first:
+      213: -2796709305200829518
+    second: spr_trainers_battle_1
+  - first:
+      213: 8146066365000210271
+    second: spr_trainers_battle_2
+  - first:
+      213: -5119408315086278031
+    second: spr_trainers_battle_3
+  - first:
+      213: 7293555546563403580
+    second: spr_trainers_battle_4
+  - first:
+      213: 8514513630978604396
+    second: spr_trainers_battle_5
+  - first:
+      213: 188343310982422260
+    second: spr_trainers_battle_6
+  - first:
+      213: 4304656235180048157
+    second: spr_trainers_battle_7
+  - first:
+      213: 3205119318764970154
+    second: spr_trainers_battle_8
+  - first:
+      213: 4906861280633563642
+    second: spr_trainers_battle_9
+  - first:
+      213: -381926510922626750
+    second: spr_trainers_battle_10
+  - first:
+      213: -7829367499278115641
+    second: spr_trainers_battle_11
+  - first:
+      213: 2909348154149858576
+    second: spr_trainers_battle_12
+  - first:
+      213: -7350060492233202307
+    second: spr_trainers_battle_13
+  - first:
+      213: -283115856964858486
+    second: spr_trainers_battle_14
+  - first:
+      213: -7729098748260995842
+    second: spr_trainers_battle_15
+  - first:
+      213: 7007572424373873371
+    second: spr_trainers_battle_16
+  - first:
+      213: 8199541608583500583
+    second: spr_trainers_battle_17
+  - first:
+      213: -6641107735539753144
+    second: spr_trainers_battle_18
+  - first:
+      213: 1474538765903155061
+    second: spr_trainers_battle_19
+  - first:
+      213: -3243902616754228293
+    second: spr_trainers_battle_20
+  - first:
+      213: -5680506462797400886
+    second: spr_trainers_battle_21
+  - first:
+      213: 5280479656359379400
+    second: spr_trainers_battle_22
+  - first:
+      213: 6130630686637580218
+    second: spr_trainers_battle_23
+  - first:
+      213: 8041929890936149544
+    second: spr_trainers_battle_24
+  - first:
+      213: 2354309335579587955
+    second: spr_trainers_battle_25
+  - first:
+      213: -1336488809143288595
+    second: spr_trainers_battle_26
+  - first:
+      213: -4621136959055922598
+    second: spr_trainers_battle_27
+  - first:
+      213: 6524754074362952795
+    second: spr_trainers_battle_28
+  - first:
+      213: -8147351863563251576
+    second: spr_trainers_battle_29
+  - first:
+      213: -3170081801633805405
+    second: spr_trainers_battle_30
+  - first:
+      213: -5975183396493633402
+    second: spr_trainers_battle_31
+  - first:
+      213: -8473553619989830206
+    second: spr_trainers_battle_32
+  - first:
+      213: 750157332991857184
+    second: spr_trainers_battle_33
+  - first:
+      213: -7155012320038391869
+    second: spr_trainers_battle_34
+  - first:
+      213: 8516058211194165157
+    second: spr_trainers_battle_35
+  - first:
+      213: 1222565083811701344
+    second: spr_trainers_battle_36
+  - first:
+      213: -8164451915804012961
+    second: spr_trainers_battle_37
+  - first:
+      213: 4435075454855053920
+    second: spr_trainers_battle_38
+  - first:
+      213: 649114938059948180
+    second: spr_trainers_battle_39
+  - first:
+      213: 5211412889535396759
+    second: spr_trainers_battle_40
+  - first:
+      213: -6245274159915585182
+    second: spr_trainers_battle_41
+  - first:
+      213: 1686478444187552488
+    second: spr_trainers_battle_42
+  - first:
+      213: -2904098230521812265
+    second: spr_trainers_battle_43
+  - first:
+      213: -6619471256317991411
+    second: spr_trainers_battle_44
+  - first:
+      213: -3642729642007849562
+    second: spr_trainers_battle_45
+  - first:
+      213: 5831862990332195457
+    second: spr_trainers_battle_46
+  - first:
+      213: 4627826425328648324
+    second: spr_trainers_battle_47
+  - first:
+      213: 1035437705448807534
+    second: spr_trainers_battle_48
+  - first:
+      213: -2890587565490239532
+    second: spr_trainers_battle_49
+  - first:
+      213: 5033695134711951261
+    second: spr_trainers_battle_50
+  - first:
+      213: 9010890766877032577
+    second: spr_trainers_battle_51
+  - first:
+      213: -892412278557099190
+    second: spr_trainers_battle_52
+  - first:
+      213: 3836937676339226178
+    second: spr_trainers_battle_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_trainers_battle_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 391
+        width: 44
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44327a7007ff5630800000000000000
+      internalID: 3918121782261986378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 335
+        width: 43
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb997b54b71039d0800000000000000
+      internalID: -2796709305200829518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 391
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5758920334ac0170800000000000000
+      internalID: 8146066365000210271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 447
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172f91fd24534f8b0800000000000000
+      internalID: -5119408315086278031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 391
+        width: 51
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fdd7e602ae73560800000000000000
+      internalID: 7293555546563403580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 447
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d73b91901a92670800000000000000
+      internalID: 8514513630978604396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 391
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe9de25e312d9200800000000000000
+      internalID: 188343310982422260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 447
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fb312f9063dbb30800000000000000
+      internalID: 4304656235180048157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_8
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 391
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa06ab9f90fda7c20800000000000000
+      internalID: 3205119318764970154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 335
+        width: 57
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9284a465ca81440800000000000000
+      internalID: 4906861280633563642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 447
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2490722acdf13baf0800000000000000
+      internalID: -381926510922626750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_11
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 391
+        width: 38
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc1a8dbdbf785390800000000000000
+      internalID: -7829367499278115641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 447
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d6a085bb4106820800000000000000
+      internalID: 2909348154149858576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 335
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75aec2bce65ff990800000000000000
+      internalID: -7350060492233202307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_14
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 279
+        width: 39
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d445bc0ab221cf0800000000000000
+      internalID: -283115856964858486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 335
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcacf393a9bcb490800000000000000
+      internalID: -7729098748260995842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 335
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaa0a40ef5ef3160800000000000000
+      internalID: 7007572424373873371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_17
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 391
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72397a466af9ac170800000000000000
+      internalID: 8199541608583500583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 335
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fdd0c53bb06d3a0800000000000000
+      internalID: -6641107735539753144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_19
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 335
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f4335f13d967410800000000000000
+      internalID: 1474538765903155061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 380
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3776ac1c75bf2d0800000000000000
+      internalID: -3243902616754228293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_21
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 382
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac476acf779ca21b0800000000000000
+      internalID: -5680506462797400886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 335
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c14af03548084940800000000000000
+      internalID: 5280479656359379400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf5426c020641550800000000000000
+      internalID: 6130630686637580218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 279
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82658d9b0acaa9f60800000000000000
+      internalID: 8041929890936149544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 283
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3757b96fddf2ca020800000000000000
+      internalID: 2354309335579587955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 280
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decbab45286d37de0800000000000000
+      internalID: -1336488809143288595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_27
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 279
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5afa096b6c6edfb0800000000000000
+      internalID: -4621136959055922598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_28
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 279
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cbf21d2459c8a50800000000000000
+      internalID: 6524754074362952795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_29
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 279
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880123885aaceee80800000000000000
+      internalID: -8147351863563251576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_30
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 279
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abcfa0b56b9104d0800000000000000
+      internalID: -3170081801633805405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 223
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6885f28db52e31da0800000000000000
+      internalID: -5975183396493633402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 223
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5e74f90e3e76a80800000000000000
+      internalID: -8473553619989830206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 111
+        width: 30
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02252aeae18196a00800000000000000
+      internalID: 750157332991857184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_34
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 223
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf619c243a44bc90800000000000000
+      internalID: -7155012320038391869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 167
+        width: 47
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7d6c4b2dd1f2670800000000000000
+      internalID: 8516058211194165157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_36
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 223
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062646f577c67f010800000000000000
+      internalID: 1222565083811701344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_37
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 167
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e8ebc5d3a02be80800000000000000
+      internalID: -8164451915804012961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_38
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 223
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06280bec0ad8c8d30800000000000000
+      internalID: 4435075454855053920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_39
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 167
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4908675d89e120900800000000000000
+      internalID: 649114938059948180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_40
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 167
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b36aa6968a25840800000000000000
+      internalID: 5211412889535396759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_41
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 223
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2613e4d8d345459a0800000000000000
+      internalID: -6245274159915585182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_42
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 223
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea072ba533976710800000000000000
+      internalID: 1686478444187552488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_43
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 167
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da28e0cb0292b7d0800000000000000
+      internalID: -2904098230521812265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 223
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06e14eb6f9e224a0800000000000000
+      internalID: -6619471256317991411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 167
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5165bc0bc627dc0800000000000000
+      internalID: -3642729642007849562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_46
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 111
+        width: 46
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1827f7dbd70fee050800000000000000
+      internalID: 5831862990332195457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_47
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 111
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48041e35d97593040800000000000000
+      internalID: 4627826425328648324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_48
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 111
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c525c6b1d9e5e00800000000000000
+      internalID: 1035437705448807534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_49
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 111
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d70bc69ce192e7d0800000000000000
+      internalID: -2890587565490239532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_50
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 111
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f2e1c2e074bd540800000000000000
+      internalID: 5033695134711951261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_51
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 167
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1808d85296d1d0d70800000000000000
+      internalID: 9010890766877032577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 111
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b3867c2c38d93f0800000000000000
+      internalID: -892412278557099190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_trainers_battle_53
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 111
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2462387dc7a8f3530800000000000000
+      internalID: 3836937676339226178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spr_trainers_battle_0: 3918121782261986378
+      spr_trainers_battle_1: -2796709305200829518
+      spr_trainers_battle_10: -381926510922626750
+      spr_trainers_battle_11: -7829367499278115641
+      spr_trainers_battle_12: 2909348154149858576
+      spr_trainers_battle_13: -7350060492233202307
+      spr_trainers_battle_14: -283115856964858486
+      spr_trainers_battle_15: -7729098748260995842
+      spr_trainers_battle_16: 7007572424373873371
+      spr_trainers_battle_17: 8199541608583500583
+      spr_trainers_battle_18: -6641107735539753144
+      spr_trainers_battle_19: 1474538765903155061
+      spr_trainers_battle_2: 8146066365000210271
+      spr_trainers_battle_20: -3243902616754228293
+      spr_trainers_battle_21: -5680506462797400886
+      spr_trainers_battle_22: 5280479656359379400
+      spr_trainers_battle_23: 6130630686637580218
+      spr_trainers_battle_24: 8041929890936149544
+      spr_trainers_battle_25: 2354309335579587955
+      spr_trainers_battle_26: -1336488809143288595
+      spr_trainers_battle_27: -4621136959055922598
+      spr_trainers_battle_28: 6524754074362952795
+      spr_trainers_battle_29: -8147351863563251576
+      spr_trainers_battle_3: -5119408315086278031
+      spr_trainers_battle_30: -3170081801633805405
+      spr_trainers_battle_31: -5975183396493633402
+      spr_trainers_battle_32: -8473553619989830206
+      spr_trainers_battle_33: 750157332991857184
+      spr_trainers_battle_34: -7155012320038391869
+      spr_trainers_battle_35: 8516058211194165157
+      spr_trainers_battle_36: 1222565083811701344
+      spr_trainers_battle_37: -8164451915804012961
+      spr_trainers_battle_38: 4435075454855053920
+      spr_trainers_battle_39: 649114938059948180
+      spr_trainers_battle_4: 7293555546563403580
+      spr_trainers_battle_40: 5211412889535396759
+      spr_trainers_battle_41: -6245274159915585182
+      spr_trainers_battle_42: 1686478444187552488
+      spr_trainers_battle_43: -2904098230521812265
+      spr_trainers_battle_44: -6619471256317991411
+      spr_trainers_battle_45: -3642729642007849562
+      spr_trainers_battle_46: 5831862990332195457
+      spr_trainers_battle_47: 4627826425328648324
+      spr_trainers_battle_48: 1035437705448807534
+      spr_trainers_battle_49: -2890587565490239532
+      spr_trainers_battle_5: 8514513630978604396
+      spr_trainers_battle_50: 5033695134711951261
+      spr_trainers_battle_51: 9010890766877032577
+      spr_trainers_battle_52: -892412278557099190
+      spr_trainers_battle_53: 3836937676339226178
+      spr_trainers_battle_6: 188343310982422260
+      spr_trainers_battle_7: 4304656235180048157
+      spr_trainers_battle_8: 3205119318764970154
+      spr_trainers_battle_9: 4906861280633563642
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
