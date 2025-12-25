@@ -17,3 +17,9 @@
 # OS
 .DS_Store
 Thumbs.db
+
+# Unity / IDE generated
+*.csproj
+*.unityproj
+*.sln
+*.slnx
