@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 172cf92f7805248a69f54c85d014b2ef, type: 3}
+  m_Name: 006
+  m_EditorClassIdentifier: Assembly-CSharp::PrizeMonster.Data.MonsterData
+  id: M006
+  displayName: 006
+  maxLevel: 50
+  baseAttack: 18
+  baseDefense: 14
+  baseHeal: 8
+  growthAttack: 4
+  growthDefense: 3
+  growthHeal: 2
+  actionCooldownSec: 2.9
+  skills:
+  - skill: {fileID: 11400000, guid: cc179611b9d6e47b0b506b468f3f844a, type: 2}
+    weight: 0
+    unlockLevel: 0
+  - skill: {fileID: 11400000, guid: 6a9a72a6e7a234cf1a082ef28f0ed86b, type: 2}
+    weight: 0
+    unlockLevel: 0
