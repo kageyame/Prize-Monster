@@ -15,17 +15,19 @@ MonoBehaviour:
   id: M001
   displayName: 001
   maxLevel: 50
+  baseHp: 60
   baseAttack: 10
   baseDefense: 12
   baseHeal: 8
+  growthHp: 10
   growthAttack: 2
   growthDefense: 2
   growthHeal: 1
   actionCooldownSec: 3.2
   skills:
   - skill: {fileID: 11400000, guid: 1ad39e10219654c4d93bd5cdf5685c45, type: 2}
-    weight: 0
-    unlockLevel: 0
+    weight: 5
+    unlockLevel: 1
   - skill: {fileID: 11400000, guid: 5754cb15461a64ad28bfcdbd516aaf73, type: 2}
-    weight: 0
-    unlockLevel: 0
+    weight: 1
+    unlockLevel: 1

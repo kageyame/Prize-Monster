@@ -15,17 +15,19 @@ MonoBehaviour:
   id: M006
   displayName: 006
   maxLevel: 50
+  baseHp: 60
   baseAttack: 18
   baseDefense: 14
   baseHeal: 8
+  growthHp: 10
   growthAttack: 4
   growthDefense: 3
   growthHeal: 2
   actionCooldownSec: 2.9
   skills:
   - skill: {fileID: 11400000, guid: cc179611b9d6e47b0b506b468f3f844a, type: 2}
-    weight: 0
-    unlockLevel: 0
+    weight: 2
+    unlockLevel: 5
   - skill: {fileID: 11400000, guid: 6a9a72a6e7a234cf1a082ef28f0ed86b, type: 2}
-    weight: 0
-    unlockLevel: 0
+    weight: 6
+    unlockLevel: 2

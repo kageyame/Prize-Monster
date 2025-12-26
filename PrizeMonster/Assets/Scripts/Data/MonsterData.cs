@@ -22,11 +22,13 @@ namespace PrizeMonster.Data
         [SerializeField] private int maxLevel = 50;
 
         [Header("Base Stats (Lv1)")]
+        [SerializeField] private int baseHp = 60;               // ★追加
         [SerializeField] private int baseAttack = 10;
         [SerializeField] private int baseDefense = 10;
         [SerializeField] private int baseHeal = 10;
 
         [Header("Growth per Level")]
+        [SerializeField] private int growthHp = 10;             // ★追加
         [SerializeField] private int growthAttack = 2;
         [SerializeField] private int growthDefense = 2;
         [SerializeField] private int growthHeal = 2;
@@ -43,6 +45,7 @@ namespace PrizeMonster.Data
         public float ActionCooldownSec => actionCooldownSec;
         public SkillSlot[] Skills => skills;
 
+        public int HpAt(int level) => baseHp + Mathf.Max(0, level - 1) * growthHp; // ★追加
         public int AttackAt(int level) => baseAttack + Mathf.Max(0, level - 1) * growthAttack;
         public int DefenseAt(int level) => baseDefense + Mathf.Max(0, level - 1) * growthDefense;
         public int HealAt(int level) => baseHeal + Mathf.Max(0, level - 1) * growthHeal;
